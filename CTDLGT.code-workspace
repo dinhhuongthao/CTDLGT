@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "E:\\CODING\\CodeLearn\\TreeDataStructure"
+		},
+		{
+			"path": "CodePTIT"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
